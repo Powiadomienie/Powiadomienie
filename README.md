@@ -1,15 +1,50 @@
-🎨 Welcome to my GitHub profile! I'm Oskar, a passionate graphic designer with 5 years of professional experience.
+![C:\Users\oskar\Pictures\Oskar_Singer_Banner.png](https://raw.githubusercontent.com/Powiadomienie/Powiadomienie/refs/heads/main/Oskar_Singer_Banner.png)
 
-🖌️ I specialize in creating visually stunning designs using Adobe Photoshop and Illustrator. From captivating illustrations to sleek user interfaces, I love pushing the boundaries of creativity and bringing ideas to life through digital art.
+<h1>Welcome, Oskar here!&nbsp;<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+</picture>
+</h1> 
 
-💡 My goal is to blend aesthetics with functionality, crafting designs that not only look visually appealing but also deliver a seamless user experience. I believe that good design has the power to make a meaningful impact, and I'm constantly exploring new techniques and trends to enhance my skills.
 
-🎓 Throughout my career, I have honed my expertise in graphic design principles, typography, color theory, and composition. I'm always up for challenging projects that allow me to think outside the box and create innovative solutions.
+### 👨🏻‍💻 &nbsp;About Me
 
-🌟 On GitHub, I aim to showcase my design projects and collaborate with fellow designers and developers. I'm open to exploring open-source design initiatives, contributing to design systems, and sharing resources that can inspire and empower others in the creative community.
+💡 &nbsp;I like to explore new technologies and find the best use cases for them.\
+🎓 &nbsp;In 2026 I finished studying as in Digital Graphic and Print Media Technician.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Marketing\
+✍️ &nbsp;In my free time, I pursue as music producer and content creator on social media\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at oskarsinger97@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.Oskarvsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-✨ Besides design, I have a keen interest in art, photography, and staying updated with the latest design trends. I'm constantly seeking opportunities to learn and grow both personally and professionally.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-📫 Feel free to reach out to me via DM. I'd love to discuss design, collaborate on exciting projects, or simply have a creative conversation.
+### 🛠 &nbsp;Tech Stack
 
-Let's create something remarkable together! 🚀
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-05122A?style=flat&logo=Premiere-Pro)
+![Premiere Pro](https://img.shields.io/badge/After%20Effects-05122A?style=flat&logo=After-Effects)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<center>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Powiadomienie&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Powiadomienie&langs_count=4&theme=dark_github)
+
+</center>
+<center>
+### 🤝🏻 &nbsp;Connect with Me ###
+
+<p align="center">
+<a href="https://be.net/ilovesinger"><img src="https://img.shields.io/badge/-ilovesinger-3423A6?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="mailto:oskarsinger97@gmail.com"><img src="https://img.shields.io/badge/-oskarsinger97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/whoissinger"><img src="https://img.shields.io/badge/-@whoissinger-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/singerjestem"><img src="https://img.shields.io/badge/-@singerjestem-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
