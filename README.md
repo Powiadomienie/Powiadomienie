@@ -39,9 +39,10 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Powiadomienie&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Powiadomienie&langs_count=4&theme=dark_github)
 
 </center>
-<center>
-### 🤝🏻 &nbsp;Connect with Me ###
-</center>
+
+<p style="text-align:center;">Sample text with center alignment</p>
+
+
 <p align="center">
 <a href="https://be.net/ilovesinger"><img src="https://img.shields.io/badge/-ilovesinger-3423A6?style=flat&logo=Behance&logoColor=white"/></a>
 <a href="mailto:oskarsinger97@gmail.com"><img src="https://img.shields.io/badge/-oskarsinger97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
