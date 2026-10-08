@@ -41,7 +41,7 @@
 </center>
 <center>
 ### 🤝🏻 &nbsp;Connect with Me ###
-
+</center>
 <p align="center">
 <a href="https://be.net/ilovesinger"><img src="https://img.shields.io/badge/-ilovesinger-3423A6?style=flat&logo=Behance&logoColor=white"/></a>
 <a href="mailto:oskarsinger97@gmail.com"><img src="https://img.shields.io/badge/-oskarsinger97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
